@@ -1,0 +1,26 @@
+# EAS Build Ignore
+node_modules/
+.expo/
+android/
+ios/
+.git/
+*.log
+gradle_build.log
+gradle_build_utf8.log
+branding/screenshots/
+App.js
+index.js
+firebaseConfig.js
+BUG_FIXES.md
+DEPLOYMENT_CHECKLIST.md
+README.md
+task.md
+walkthrough.md
+implementation_plan.md
+# Keep essential source
+!src/
+!app.json
+!eas.json
+!package.json
+!App.tsx
+!assets/
